@@ -1,0 +1,4 @@
+= Test Data 1 Title
+:page-variable: test data 1
+
+This is the test data 1 content
